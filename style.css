@@ -116,6 +116,8 @@ body{
 .d-1-4 {
     flex: 1;
     line-height: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
 .di-1-rigt{
     width: 90px;
@@ -147,6 +149,7 @@ body{
    font-size: 14px;
    border-top: 2px solid #000;
    padding-left: 12px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .aviso--grande {

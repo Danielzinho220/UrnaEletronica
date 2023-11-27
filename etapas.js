@@ -1,50 +1,94 @@
 let etapas = [
     {
-        titulo: 'VEREADOR',
+        titulo: 'CORDENADOR',
         numeros: 5,
         candidatos: [
             {
                 numero: '10125',
-                nome: 'Pavel silva',
-                partido: 'Avp',
+                nome: 'lula silva',
+                partido: 'RAR',
                 fotos:[
-                    {url:'cand4.jpg', legenda: 'Vereador'}
+                    {url:'lula.webp', legenda: 'Cordenador'}
                 ]
             },
             {
                 numero: '46461',
                 nome: 'joão pottes',
-                partido: 'Cam',
+                partido: 'CAM',
                 fotos:[
-                    {url:'cand3.jpg', legenda: 'Vereador'}
+                    {url:'manok.jfif', legenda: 'Cordenador'}
+                ]
+            },
+            {
+                numero: '10995',
+                nome: 'Dr aufredo',
+                partido: 'PTV',
+                fotos:[
+                    {url:'lebron.jfif', legenda: 'Cordenador'}
+                ]
+            },
+            {
+                numero: '40001',
+                nome: 'Catatau silvestre',
+                partido: 'CVD',
+                fotos:[
+                    {url:'tiringa..webp', legenda: 'Cordenador'}
                 ]
             },
         ]
     },
+
+    
+
     {
-        titulo: 'PREFEITO',
+        titulo: 'DIRETOR',
         numeros: 2,
         candidatos: [
             {
                 numero: '90',
-                nome: 'Everaldo Cruz',
-                partido: 'Dhp',
-                vice: 'José messias',
+                nome: 'Dr Kesede',
+                partido: 'EMV',
+                vice: 'Jesus nazaré',
                 fotos:[
-                    {url:'cand1.jpg', legenda: 'Prefeito'},
-                    {url:'cand2.jpg', legenda: 'Vice-prefeito', small: true}
+                    {url:'kesede.jfif', legenda: 'Diretor'},
+                    {url:'messi.jfif', legenda: 'Vice-Diretor', small: true}
                 ]
             },
             {
                 numero: '12',
                 nome: 'Daniel almeida',
-                partido: 'Pvb',
-                vice: 'messi lovrem',
+                partido: 'MPD',
+                vice: 'lovrem Shak',
                 fotos:[
-                    {url:'cand5.jpg', legenda: 'Prefeito'},
-                    {url:'cand6.jpg', legenda: 'Vice-prefeito', small: true}
+                    {url:'cand5.jpg', legenda: 'Diretor'},
+                    {url:'cand6.jpg', legenda: 'Vice-Diretor', small: true}
+                ]
+            },
+            {
+                numero: '40',
+                nome: 'jair bolsonaro',
+                partido: 'RRR',
+                vice: 'José messias',
+                fotos:[
+                    {url:'bolsonaro.webp', legenda: 'Diretor'},
+                    {url:'cand6.jpg', legenda: 'Vice-Diretor', small: true}
+                ]
+            },
+            {
+                numero: '17',
+                nome: 'Dayverson almeida',
+                partido: 'BLD',
+                vice: 'Mike tysons',
+                fotos:[
+                    {url:'obama.jpg', legenda: 'Diretor'},
+                    {url:'mike.jfif', legenda: 'Vice-Diretor', small: true}
                 ]
             },
         ]
     }
+
+   
 ];
+
+
+
